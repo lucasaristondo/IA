@@ -1,0 +1,10 @@
+org\lucasaristondo\centroia\TipoDatos.class
+org\lucasaristondo\centroia\Modelos.class
+org\lucasaristondo\centroia\Entrenable.class
+org\lucasaristondo\centroia\ModeloDuplicadoException.class
+org\lucasaristondo\centroia\CentroIA.class
+org\lucasaristondo\centroia\ArbolDecision.class
+org\lucasaristondo\centroia\GestorModelos.class
+org\lucasaristondo\centroia\AlgoritmosGenericos.class
+org\lucasaristondo\centroia\CriteriosEnum.class
+org\lucasaristondo\centroia\RedNeuronales.class
